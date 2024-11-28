@@ -6,12 +6,11 @@
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="repositório de trofeos"
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=xNovaFrost&column=8&no-frame=true&no-bg=true"
-    />
+      src=https://github-profile-trophy.vercel.app/?username=xNovaFrost&theme=flat/>
   </a>
 </p>
 
