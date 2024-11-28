@@ -4,13 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xNovaFrost&label=Profile%20views&color=0e75b6&style=flat" alt="xNovaFrost" /> </p>
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de trofeos"
-  >
     <img
-      src=https://github-profile-trophy.vercel.app/?username=xNovaFrost&theme=flat/>
-  </a>
+      src=https://github-profile-trophy.vercel.app/?username=xNovaFrost&theme=flat width="700" heigth="500"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
