@@ -9,7 +9,6 @@
     title="repositório de trofeos"
   >
     <img
-      width="800"
       src=https://github-profile-trophy.vercel.app/?username=xNovaFrost&theme=flat/>
   </a>
 </p>
